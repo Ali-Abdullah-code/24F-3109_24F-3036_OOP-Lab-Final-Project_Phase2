@@ -123,11 +123,8 @@ As the developers, my peer and I:
 ## Future Improvements
 
 - **AI Opponents**: Introduce AI-controlled kingdoms to allow single-player games against computer opponents or to fill multiplayer slots when fewer than four players are available.
-- **Expanded Map Features**: Add location-specific bonuses (e.g., increased resource production in certain areas) or events tied to specific map locations to enhance strategic depth.
 - **Advanced Diplomacy**: Implement treaties, trade embargoes, or betrayal mechanics to make diplomacy more dynamic and impactful.
 - **War Enhancements**: Add terrain effects, unit types (e.g., archers, cavalry), or siege mechanics to make battles more varied and tactical.
 - **Trade Economy**: Introduce a dynamic market with fluctuating resource prices based on supply and demand across kingdoms.
 - **Graphical Interface**: Transition from console to a graphical user interface (e.g., using SFML or Qt) for a more engaging user experience.
-- **Networked Multiplayer**: Enable online multiplayer to allow players to compete remotely, expanding the game’s accessibility.
 - **Event Variety**: Expand the event system with more diverse events, including chained events or player-driven storylines.
-- **Balancing and Testing**: Fine-tune game balance (e.g., smuggling risks, battle outcomes) and conduct extensive playtesting to ensure fair and enjoyable multiplayer dynamics.
